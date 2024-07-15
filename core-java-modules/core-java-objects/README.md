@@ -19,17 +19,8 @@ The `Person` class represents a person with a `name` and an `address`. It includ
 
 ### Usage
 
-To run these examples, compile and run the respective Java files using your preferred IDE or command line.
+To run the junit tests examples using your preferred IDE or command line.
 
-For example, using the command line:
-
-```bash
-javac ShallowCopyExample.java
-java ShallowCopyExample
-
-javac -d . DeepCopyExample.java
-java com.baeldung.DeepCopyExample
-```
 
 ### Conclusion
 
